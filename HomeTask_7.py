@@ -31,4 +31,5 @@ result = f'{words_hundreds} {words_tins}' if tens == 10 else f'{words_hundreds} 
 
 assert 100 <= number <= 999, "Error! The number should be >= 100 and <= 999"
 print(result)
-# ____________________________
+# ____________________________control_commit__
+
