@@ -30,5 +30,6 @@ for num1 in l1:
         if mult == num2 * num2 or mult == num2 * -num2:
             orig_nums = orig_nums + [num1]
 print(f'Max value = {max_value}. Nums are: {tuple(orig_nums)}')
+# ___________________________
 
 
